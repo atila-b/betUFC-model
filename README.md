@@ -10,3 +10,6 @@ The created model receives the statistics of the two fighters that will fight an
 For web scraping, the BeautifulSoup library was used.
 
 To manipulate the neural network, the TensorFlow library was used.
+
+## Results
+The highest accuracy achieved until now by the model was approximately 71%.
